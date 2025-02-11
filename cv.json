@@ -1,107 +1,121 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Pratik Kamble",
+    "label": "Sr Software Engineer",
+    "image": "/pratik-profile.jpg",
+    "email": "pratik.coderx@gmail.com",
+    "phone": "+91 9834764124",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "summary": "With over 10 years in software development, I specialize in cloud-native solutions and microservices, utilizing GoLang, GCP, Docker and Terraform. Proven expertise in designing and implementing scalable,high performance systems. Passionate about leveraging cloud technologies and edge computing to drive innovation and efficiency. Committed to continuous learning and applying best practices to deliver robust, cutting-edge solutions. Seeking to contribute my skills and experience to dynamic projects in cloud-native architecture.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "411057",
+      "city": "Pune",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "coderkakarrot",
+        "url": "https://www.linkedin.com/in/coderkakarrot/"
       },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
-      },
+
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "coderkakarrot",
+        "url": "https://github.com/coderkakarrot"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
+      "name": "Pantheon Platform",
+      "position": "Sr Software Engineer",
+      "location_type": "remote",
+      "location": "Banglore, India",
+      "url": "https://pantheon.io/",
+      "startDate": "2021-09-01",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "summary": "Pantheon Front-End Sites provide users with tools that improve the experience of building a decoupled frontend that sources data from a CMS backend. Front-End Sites allows a CMS site to be linked to a single site, multiple sites, or you can link directly to a frontend application without a CMS. Check more info here: https://docs.pantheon.io/guides/decoupled/overview",
+      "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
+        "Designed and implemented microservices utilizing GraphQL to efficiently handle metadata for customer websites and website operations.",
+        "Engineered a microservice for seamless integration with GitHub, facilitating event management.",
+        "Employed Terraform (Infrastructure as Code) to orchestrate internal infrastructure and streamline customer resource provisioning",
+        "Crafted an edge service utilizing Fastly C@E to intelligently route requests to various backends.",
+        "Established robust CI/CD pipelines for both services and libraries to ensure continuous integration and delivery.",
+        "Implemented comprehensive health checks for microservices to enhance overall system reliability and performance."
       ],
       "achievements": [
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
+      "skills": ["React", "Tailwind", "GitHub"]
     },
     {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "QED42 Engineering pvt ltd",
+      "position": "Technical Lead",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
+      "location": "Pune, India",
+      "url": "https://www.qed42.com/",
+      "startDate": "2017-10-01",
+      "endDate": "2021-08-01",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
       "highlights": [
         "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
+        "Timely delivery of performance-optimized business solutions.",
+        "Developing site-level architecture",
+        "Custom module and theme development for Drupal 7 and Drupal 8",
+        "Mentoring fellow developers in projects and open source contributions",
+        "Participation in sprint planning, ticket grooming, implementation detail addition, PR reviews, and client demos",
+        "Conducting Performance and Security audits",
+        "Providing training and onboarding resources",
+        "Drupal 7 to Drupal 8 migration tasks"
       ],
       "achievements": [
         "Successfully implemented a feature that enhanced user authentication, improving security measures."
       ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
+      "skills": ["Python", "Django", "SQL", "Git"]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "name": "Accenture",
+      "position": "Application Development Analyst",
+      "location_type": "on site",
+      "url": "https://www.accenture.com/us-en",
+      "location": "Pune, India",
+      "startDate": "2017-05-01",
+      "endDate": "2017-09-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
-      "highlights": [
-        "Completed several client projects successfully"
+      "highlights": ["Completed several client projects successfully"],
+
+      "responsibilities": [
+        "Fixing bugs in the site.",
+        "New feature development in Drupal 7"
       ],
-      "skills": [
-        "HTML",
-        "CSS"
-      ]
+      "skills": ["HTML", "CSS"]
+    },
+    {
+      "name": "Logiquad Solutions ",
+      "position": "Software Engineer",
+      "location_type": "on site",
+
+      "location": "Pune, India",
+      "startDate": "2014-09-01",
+      "endDate": "2017-05-01",
+      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "highlights": ["Completed several client projects successfully"],
+
+      "responsibilities": [
+        "Engaging with clients, collecting and analyzing requirements",
+        "Creating custom modules Migrating from Drupal 7 to Drupal 8",
+        "Developing mobile applications in PhoneGap",
+        "Custom services building using Talend",
+        "Overseeing AWS server management"
+      ],
+      "skills": ["HTML", "CSS"]
     }
   ],
   "volunteer": [
@@ -112,104 +126,61 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
     {
-      "institution": "State University",
+      "institution": "Vishwakarma Institute of Technology, Pune",
       "url": "https://stateuniversity.edu",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
+      "startDate": "2010-06-01",
+      "endDate": "2014-05-01",
       "score": "3.8",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
       ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "HashiCorp Certified: Terraform Associate (002)"
+    },
+    {
+      "name": "GCP Associate Cloud Engineer Certification"
+    },
+
+    {
+      "name": "GCP Professional Cloud Architect Certification"
     }
   ],
   "skills": [
     {
       "name": "Figma",
       "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "keywords": ["Design", "UI"]
     },
     {
       "name": "Gitlab",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "HTML",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -234,41 +205,22 @@
     {
       "name": "Node",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "Next.js",
@@ -284,12 +236,7 @@
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -305,60 +252,13 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "keywords": ["AI", "Blockchain"]
     }
   ],
   "references": [
     {
       "name": "Jane Smith",
       "reference": "Reference…"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
     }
   ]
 }
