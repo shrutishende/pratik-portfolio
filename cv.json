@@ -146,14 +146,20 @@
   ],
   "certificates": [
     {
-      "name": "HashiCorp Certified: Terraform Associate (002)"
+      "name": "HashiCorp Certified: Terraform Associate (002)",
+      "issuer":"HashiCorp",
+      "url":"#"
     },
     {
-      "name": "GCP Associate Cloud Engineer Certification"
+      "name": "GCP Associate Cloud Engineer Certification",
+      "issuer": "Google",
+      "url": "#"
     },
 
     {
-      "name": "GCP Professional Cloud Architect Certification"
+      "name": "GCP Professional Cloud Architect Certification",
+      "issuer": "Google",
+      "url": "#"
     }
   ],
   "skills": [
